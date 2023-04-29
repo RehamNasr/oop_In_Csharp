@@ -1,0 +1,15 @@
+C:\Users\ma3\desktop\c#\bin\Debug\net6.0\reham.exe
+C:\Users\ma3\desktop\c#\bin\Debug\net6.0\reham.deps.json
+C:\Users\ma3\desktop\c#\bin\Debug\net6.0\reham.runtimeconfig.json
+C:\Users\ma3\desktop\c#\bin\Debug\net6.0\reham.dll
+C:\Users\ma3\desktop\c#\bin\Debug\net6.0\reham.pdb
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\reham.csproj.AssemblyReference.cache
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\reham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\reham.AssemblyInfoInputs.cache
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\reham.AssemblyInfo.cs
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\reham.csproj.CoreCompileInputs.cache
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\reham.dll
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\refint\reham.dll
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\reham.pdb
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\reham.genruntimeconfig.cache
+C:\Users\ma3\desktop\c#\obj\Debug\net6.0\ref\reham.dll

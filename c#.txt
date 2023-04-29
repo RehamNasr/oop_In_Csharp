@@ -1,0 +1,99 @@
+using System;
+using System.Linq;
+namespace reham;
+public class reham{
+    private static void Main (){
+    // password
+    //     var pass=Console.ReadLine();
+    //    do{
+    //      Console.WriteLine("passsword is false enter again");
+    //    pass=Console.ReadLine();
+    //    if(pass=="123456"){
+    //    Console.WriteLine("passsword is true ");
+    //    }
+    // }while(pass!="123456");
+    // }
+
+//    arr
+// int[] arr={1,2,3,4,5};
+// var arr=new int[5]{1,2,3,4,5};
+// int[] arr=new int[5]{1,2,3,4,5};
+// int[] arr=new int[]{1,2,3,4,5};
+// arr.Length;
+
+// int x,y,z;
+// x=y=z=50;
+//     // Console.WriteLine(x+y+z);
+//      float a=1e3f;
+//      double d1 = 12E4D;
+//     Console.WriteLine(a);
+//     Console.WriteLine(d1);
+
+// Console.WriteLine((int)1.25);
+// Console.WriteLine(Convert.ToInt32(1.25));
+// Console.WriteLine(Parse.int(1.25));
+// // implict صغير==>كبير short int 
+// explict كبير==>صغير
+//  // int x=5;
+// double w=x;
+// Console.WriteLine(w);
+
+// int x=Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine(x);
+
+// double dou=5.2;
+// int integer=(int)dou;
+// int integer2=Convert.ToInt32(dou);
+// Console.WriteLine(integer);
+// Console.WriteLine(integer2);
+
+
+
+// int x,y;
+// x=y=5;
+// Console.WriteLine(x+y);
+
+// int x=4;
+// int y=10;
+// Console.WriteLine(Math.Sqrt(x));
+// Console.WriteLine(Math.Pow(x,y));
+// string name="reham nasr";
+// string name2="AHMED MOHAMED";
+// Console.WriteLine(name.ToUpper());
+// Console.WriteLine(name2.ToLower());
+// Console.WriteLine(name2.Substring(4,6));
+
+
+// int x=4;
+// string result=(x>5)?"Yes":"No";
+// Console.WriteLine(result);
+
+
+// Loop   انفذ جمله اكتر من مره 
+// for , While ,do while 
+
+
+// int[] arr={1,2,3,4,5};
+// foreach(int i in arr){
+//     Console.WriteLine(i);
+
+// }
+// Array.Sort(arr);
+// Console.WriteLine(arr[0,1]);
+// // Console.WriteLine(arr.Max());
+// // Console.WriteLine(arr.Min());
+// // Console.WriteLine(arr.Sum());
+// int[,] numbers = { {1, 4, 2}, {3, 6, 8} };
+// Console.WriteLine(numbers.GetLength(0));
+// for (int i = 0; i < numbers.GetLength(0); i++) 
+// { 
+//   for (int j = 0; j < numbers.GetLength(1); j++) 
+//   { 
+//     Console.WriteLine(numbers[i, j]); 
+//   } 
+// }  
+
+
+
+
+}}
